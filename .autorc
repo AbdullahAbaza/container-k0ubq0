@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "AbdullahAbaza",
+  "repo": "container-k0ubq0",
+  "name": "AbdullahAbaza",
+  "email": "abaza.abdullah66@gmail.com",
+}
